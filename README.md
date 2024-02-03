@@ -7,4 +7,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs" />
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
+
+  faith odunsi!
 </p>
